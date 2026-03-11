@@ -38,7 +38,6 @@ public class Test {
         mul(x, y);
         div(x, y);
     }
-}
 
 
 
